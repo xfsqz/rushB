@@ -1,0 +1,2 @@
+# rushB
+let us quit
